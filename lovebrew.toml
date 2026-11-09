@@ -1,9 +1,6 @@
 [metadata]
-title = "Mon Jeu 3DS"
-author = "Moi"
-version = "1.0.0"
-
-[build]
-targets = ["ctr"]
-source = "."
-packaged = true
+title = "SuperGame" # title of the game
+author = "SuperAuthor" # author(s) of the game
+description = "SuperDescription" # description of the game
+version = "0.1.0" # current version, obeying semver
+icons = { ctr = "", hac = "", cafe = "" } # custom icon paths
