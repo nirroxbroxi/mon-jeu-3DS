@@ -1,9 +1,9 @@
 [metadata]
 title = "Mon Jeu 3DS"
-author = "TonPseudo"
+author = "Moi"
 version = "1.0.0"
 
 [build]
-targets = ["ctr"] # "ctr" correspond à la Nintendo 3DS
+targets = ["ctr"]
 source = "."
 packaged = true
